@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class RNumbers {
+public class RNumbers_FinalPractical {
 
 	public static void main(String[] args) {
 		
